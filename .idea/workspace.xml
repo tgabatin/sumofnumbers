@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ee22f43-e8b9-4a26-b20a-1ab17b93a145" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sumofnumbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="8ee22f43-e8b9-4a26-b20a-1ab17b93a145" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +60,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="875" height="288" key="GridCell.Tab.0.bottom" timestamp="1581325884480">
+      <screen x="0" y="23" width="1792" height="1053" />
+    </state>
+    <state width="875" height="288" key="GridCell.Tab.0.bottom/0.23.1792.1053@0.23.1792.1053" timestamp="1581325884480" />
+    <state width="875" height="288" key="GridCell.Tab.0.center" timestamp="1581325884480">
+      <screen x="0" y="23" width="1792" height="1053" />
+    </state>
+    <state width="875" height="288" key="GridCell.Tab.0.center/0.23.1792.1053@0.23.1792.1053" timestamp="1581325884480" />
+    <state width="875" height="288" key="GridCell.Tab.0.left" timestamp="1581325884480">
+      <screen x="0" y="23" width="1792" height="1053" />
+    </state>
+    <state width="875" height="288" key="GridCell.Tab.0.left/0.23.1792.1053@0.23.1792.1053" timestamp="1581325884480" />
+    <state width="875" height="288" key="GridCell.Tab.0.right" timestamp="1581325884480">
+      <screen x="0" y="23" width="1792" height="1053" />
+    </state>
+    <state width="875" height="288" key="GridCell.Tab.0.right/0.23.1792.1053@0.23.1792.1053" timestamp="1581325884480" />
     <state x="573" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1581319877340">
       <screen x="0" y="23" width="1792" height="1052" />
     </state>
